@@ -12,9 +12,9 @@ Which are the key factors responsible for employee attrition?
 🛠 Tools Used
 
 Power BI
-Excel / CSV
-Data Visualization
-Basic Data Analysis
+- Excel / CSV
+- Data Visualization
+- Basic Data Analysis
 
 📊 Key Insights
 
@@ -42,9 +42,9 @@ Overall, this dashboard gives a clear view of where attrition is happening the m
 
 📂 Files Included
 
-Power BI Dashboard (.pbix / .pbit)
-Dataset (CSV file)
-Dashboard PDF
+- Power BI Dashboard (.pbix / .pbit)
+- Dataset (CSV file)
+- Dashboard PDF
 
 👤 Author
 
